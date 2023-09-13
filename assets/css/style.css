@@ -15,7 +15,10 @@
     background-position: 0% 50%;
   }
 }
-
+.img-fluid{
+  padding-top: 5;
+  padding-bottom: 0;
+}
 .icon-square {
   width: 3rem;
   height: 3rem;
